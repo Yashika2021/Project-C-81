@@ -1,0 +1,11 @@
+#myCanvas{
+    border-width: 10px;
+    background-color: #F7ECDE;
+    border-style: ridge;
+    border-color: #191A19;
+}
+
+#heading{
+    color: #DFDFDE;
+    font-size: 50px;
+}
